@@ -4,15 +4,15 @@
   <img src="https://img.shields.io/static/v1?label=python&message=3.12&color=blue&style=for-the-badge&logo=python"/>
 </p>
 
-
+<p align="justify">
 ### Topics :writing_hand:
 
 - [Project Description](#project-description-file_folder)
 - [Funcionalities](#funcionalities-gear)
 - [Requirements](#requirements-pushpin)
-- [How to run the app](#how-to-run-the-app-arrow_forward)
-- [ToDo](#ToDo-rocket)
-- [License](#License-grey_exclamation)
+- [How to run the app](#how-to-run-it-arrow_forward)
+- [ToDo](#todo-rocket)
+- [License](#license-grey_exclamation)
 
 
 
@@ -41,9 +41,7 @@
 
 install all requirements in requirements.txt
 
-'''''''''''''''''''''''''''''''
-pip install -r requirements.txt
-'''''''''''''''''''''''''''''''
+  $ pip install -r requirements.txt
 
 
 ## How to run it :arrow_forward:
@@ -51,19 +49,25 @@ pip install -r requirements.txt
 Store all files under the same directory.
 Open a CMD on the same directory and run:
 
-''''''''''''''''
-python main.py
-''''''''''''''''
+
+
+  $ python main.py
+
+
 
 
 ## ToDo :rocket:
 
 :memo: Add, ping, Starting, Stopping date/time to run the app.
+
 :memo: Check why its showing timeout message on toast notfication and how to avoid its display "(<ToastDismissalReason.TIMED_OUT: 2>,)"
+
 :memo: Run it on background in Windows.
+
 
 ## License :grey_exclamation:
 
 The [MIT License]() (MIT)
 
+</p>
 
